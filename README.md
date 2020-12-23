@@ -1,7 +1,7 @@
 # Web-Based-Projects
 A collection of projects that can be accessed through my itch.io page. All games were created in Unity.
 
-Elementary Chess: https://petereldredge.itch.io/elementarychess
+### Elementary Chess: https://petereldredge.itch.io/elementarychess
 
 This is my most recent completed project. It was also the first time I dabbled with network programming. It is essentially
 a chess game with a coat of paint. The game includes all chess rules, as well as quickplay and custom game multiplayer.
@@ -9,9 +9,9 @@ a chess game with a coat of paint. The game includes all chess rules, as well as
 I wrote all of the code used in this project, with the exception of Photon 2 (https://doc-api.photonengine.com/en/pun/v2/index.html).
 Photon assisted with the multiplayer networking implementaiton, but all gameplay specific code was written solely by me.
 
-Egypt Game Prototype: https://petereldredge.itch.io/egyptgameprototype
+### Egypt Game Prototype: https://petereldredge.itch.io/egyptgameprototype
 
-Egypt Game Prototype Walkthough: https://www.youtube.com/watch?v=f2EhY9_3CJk
+### Egypt Game Prototype Walkthough: https://www.youtube.com/watch?v=f2EhY9_3CJk
 
 This project was an experimental puzzle game, where you control an artifact that can push and pull blocks. The game was in the
 early stages when I stopped work on it, but the primary mechanics were implemented. I am really proud of how robust the push/pull 
@@ -24,9 +24,9 @@ The game is very challenging and difficult to play, partially because I had not 
 level design/lack of art assets. You can certainly download the build and give it a try, although if you struggle, there is actually a
 complete playthough of the prototype, which does a decent job of showing how robust the mechanics are.
 
-Surface Tension: https://petereldredge.itch.io/surfacetensiongame
+### Surface Tension: https://petereldredge.itch.io/surfacetensiongame
 
-Surface Tension Walkthrough (First Half): https://www.youtube.com/watch?v=lyKa5FLSJJY
+### Surface Tension Walkthrough (First Half): https://www.youtube.com/watch?v=lyKa5FLSJJY
 
 One of my earlier Unity games, and still one of my best. I really wish we had continued to work on this game, and I may even want to go
 back and remake it in the future. The game is a puzzle platformer where you can change the properties of certain surfaces. In this
