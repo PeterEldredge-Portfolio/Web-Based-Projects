@@ -1,6 +1,24 @@
 # Web-Based-Projects
 A collection of projects that can be accessed through my itch.io page. All games were created in Unity.
 
+### Oil and Cordite: http://oilandcorditegame.com/#/
+
+This was the project for my games workshop class that I worked on for 2 terms. It is a flight based action/arcade game where
+you destory enemies and complete objectives by ramming your ship into them. Overall it was a fun game to work on, though unfortunately
+a bit unpolished. It was also the largest scoped project I had worked on up to that point.
+
+I was the Lead Programmer on this game, and did a good amount of both the systems and gameplay code. I set up many of the core systems,
+including the basic flight controls/physics, the heat system, health system, and combo/scoring system. Additionally, I handled almost all 
+of the UI implementation, as well as the different settings in the game and the save system. I also delegated programming tasks and 
+assisted others on the team whenever possible.
+
+I am pretty happy with the level of polish that I achieved with the UI and other systems. They were easy for the designers to work with,
+and many people on the team and who played the game praised the overall UI in both gameplay and the menus. I do wish we did a bit better
+of a job with the tutorial and gameplay polish though. It is fun to play once you grasp the controls and gameplay, but we did not do an
+amazing job of explaining the systems to new players, leading to some frustration.
+
+As a side note, my quote on the website is a joke. I love programming and video games (and I especially love Doom Eternal). 
+
 ### Elementary Chess: https://petereldredge.itch.io/elementarychess
 
 This is my most recent completed project. It was also the first time I dabbled with network programming. It is essentially
