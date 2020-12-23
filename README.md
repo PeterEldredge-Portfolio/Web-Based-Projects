@@ -10,6 +10,7 @@ I wrote all of the code used in this project, with the exception of Photon 2 (ht
 Photon assisted with the multiplayer networking implementaiton, but all gameplay specific code was written solely by me.
 
 Egypt Game Prototype: https://petereldredge.itch.io/egyptgameprototype
+
 Egypt Game Prototype Walkthough: https://www.youtube.com/watch?v=f2EhY9_3CJk
 
 This project was an experimental puzzle game, where you control an artifact that can push and pull blocks. The game was in the
@@ -24,6 +25,7 @@ level design/lack of art assets. You can certainly download the build and give i
 complete playthough of the prototype, which does a decent job of showing how robust the mechanics are.
 
 Surface Tension: https://petereldredge.itch.io/surfacetensiongame
+
 Surface Tension Walkthrough (First Half): https://www.youtube.com/watch?v=lyKa5FLSJJY
 
 One of my earlier Unity games, and still one of my best. I really wish we had continued to work on this game, and I may even want to go
