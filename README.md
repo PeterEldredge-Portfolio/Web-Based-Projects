@@ -27,6 +27,8 @@ a chess game with a coat of paint. The game includes all chess rules, as well as
 I wrote all of the code used in this project, with the exception of Photon 2 (https://doc-api.photonengine.com/en/pun/v2/index.html).
 Photon assisted with the multiplayer networking implementaiton, but all gameplay specific code was written solely by me.
 
+You can also view the complete source code in the Elementary Chess section of my portfolio (https://github.com/PeterEldredge-Portfolio/Elementary-Chess).
+
 ### Egypt Game Prototype: https://petereldredge.itch.io/egyptgameprototype
 
 ### Egypt Game Prototype Walkthough: https://www.youtube.com/watch?v=f2EhY9_3CJk
